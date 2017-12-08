@@ -102,7 +102,7 @@ header .search-area ul li {
 
 #top-area {
     padding: 200px 15px 90px 15px;
-    background: url(https://images5.alphacoders.com/473/thumb-1920-473154.jpg) no-repeat center center; 
+    background: url(../images/thumb-1920-473154.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -184,6 +184,114 @@ header .search-area ul li {
     font-size: 14px;       
 }
 
+#content-area .side-column .widget-box.photos .body .para1 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/pexels-photo-248797.jpeg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para2 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/rose-blue-flower-rose-blooms-67636.jpeg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para3 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/lights.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para4 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para5 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/images_photos.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para6 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/creativity_water_spray_drops_flower_rose_desktop_images_TVIdSpG.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para7 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/River-Reuss-Lucerne-Switzerland-Images_mGKFK0o.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para8 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/2-Image-With-Middle-Text-Overlay_CHynxN6.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.photos .body .para9 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    
+    background: url('../images/example.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 #content-area .widget-box {
     padding: 15px;
     background: white;
@@ -193,6 +301,105 @@ header .search-area ul li {
     -moz-box-shadow: 0px 2px 5px -1px rgba(138,138,138,1);
     box-shadow: 0px 2px 5px -1px rgba(138,138,138,1);
     overflow: auto;
+}
+
+#content-area .side-column .widget-box.friends .body .para10 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/female-75.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para11 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/female-31.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para12 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/female-63.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para13 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/female-103.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para14 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/male-5.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para15 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/female-104.JPG') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para16 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/male-17.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para17 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/male-35.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-area .side-column .widget-box.friends .body .para18 {
+    display: inline-block;
+    float: left;
+    width: 33.33%;
+    height: 100px;    background: url('../images/stephanie.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 #content-area .widget-box .head .widget-icon-container{
@@ -291,7 +498,7 @@ padding: 28px  0 21px;
 #content-area .main-area .widget-box.post .head .user-img {
     display: inline-block;
     float: left;
-    background: url(https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg) no-repeat center center; 
+    background: url("../images/128.jpg") no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
